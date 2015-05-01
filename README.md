@@ -13,9 +13,9 @@ Key concepts demonstrated in these materials:
 * Data replication (synchronization) to a remote data store
 * Building a web based endpoint on the Node.js infrastructure 
 
-The video below provides a comlpete end to end walkthrough of this content.  
+Click the image below to view a comlpete end to end video-walkthrough of this content.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rzFQInkcOPw?rel=0" frameborder="0" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/rzFQInkcOPw/0.jpg)](http://www.youtube.com/watch?v=rzFQInkcOPw)
 
 The "iOS-native" folder contains the source code for a complete sample application leveraging this workflow.  The "GeoPix-complete" folder contains a completed project.  The "GeoPix-starter" folder contains a starter application, with all MobileFirst/Bluemix code commented out.  You can follow the steps inside of the "Step By Step Instructions.pdf" file to setup the backend infrastructure on Bluemix, and setup all code within the "GeoPix-starter" project.  The "Node.js" folder contains a server-side Node.js application that exposes all of this captured data through a web endpoint, in case you want to take advantage of the entire Cloud backend.
 
